@@ -1,0 +1,14 @@
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Application.deps.json
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Application.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Application.pdb
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.csprojAssemblyReference.cache
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.AssemblyInfoInputs.cache
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.AssemblyInfo.cs
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.csproj.CoreCompileInputs.cache
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.pdb
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Infra.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Infra.pdb
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\obj\Debug\netstandard2.0\Educacao.Application.csproj.CopyComplete
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Domain.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Application\bin\Debug\netstandard2.0\Educacao.Domain.pdb

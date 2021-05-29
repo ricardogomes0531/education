@@ -1,0 +1,9 @@
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\bin\Debug\netstandard2.0\Educacao.Domain.deps.json
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\bin\Debug\netstandard2.0\Educacao.Domain.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\bin\Debug\netstandard2.0\Educacao.Domain.pdb
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.AssemblyInfoInputs.cache
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.AssemblyInfo.cs
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.csproj.CoreCompileInputs.cache
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.dll
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.pdb
+C:\Users\u005481\source\repos\Educacao.Web\Educacao.Domain\obj\Debug\netstandard2.0\Educacao.Domain.csprojAssemblyReference.cache
